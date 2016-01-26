@@ -1,3 +1,6 @@
+# Git repository
+This is the stable release git repository, for development please go to the [developer branches](https://www.github.com/fungs/taxator-tk/). Please also post issues, bugs etc. to the linked repository.
+
 # taxator-tk
 A set of programs for the taxonomic analysis of nucleotide sequence data
 
